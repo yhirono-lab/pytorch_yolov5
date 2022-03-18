@@ -1,0 +1,7 @@
+train: data/Hodgkin/Hodgkin3/images/train
+val:   data/Hodgkin/Hodgkin3/images/val
+test:  data/Hodgkin/Hodgkin3/images/test
+
+nc: 1
+
+names: ['Hodgkin']
